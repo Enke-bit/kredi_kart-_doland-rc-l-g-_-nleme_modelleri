@@ -1,6 +1,9 @@
 # Kredi Kartı Dolandırıcılığı Tespiti için Sinir Ağı Modelleri
 Bu proje, kredi kartı dolandırıcılığını tespit etmek amacıyla çeşitli sinir ağı modelleri geliştirmeyi hedeflemektedir. Model performansını değerlendirirken basit sinir ağı, konvolüsyonel sinir ağı (CNN) ve derin sinir ağı (Deep NN) modelleri kullanılmıştır. Bu README dosyası, projenin amacını, veri setini, kullanılan modelleri ve sonuçları açıklar.
 
+## Veri seti:
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+
 ## İçindekiler
 - Proje Amacı
 - Veri Seti
