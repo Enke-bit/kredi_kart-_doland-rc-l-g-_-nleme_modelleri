@@ -24,8 +24,8 @@ Basit Sinir Ağı (Simple NN)
 - Çıkış Katmanı: Sigmoid
 - Konvolüsyonel Sinir Ağı (CNN)
 
-Yapı: 1D Konvolüsyon katmanı, MaxPooling katmanı, Düzleştirme (Flatten) katmanı, Yoğun (Dense) katman
-Aktivasyon Fonksiyonları: ReLU, Sigmoid
+- Yapı: 1D Konvolüsyon katmanı, MaxPooling katmanı, Düzleştirme (Flatten) katmanı, Yoğun (Dense) katman
+- Aktivasyon Fonksiyonları: ReLU, Sigmoid
 Derin Sinir Ağı (Deep NN)
 
 Yapı: Birden fazla gizli katman, Dropout katmanları
